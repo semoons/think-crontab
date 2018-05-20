@@ -78,3 +78,7 @@ stdout_logfile=/root/supervisor.log ;stdout文件
 - [ ] 分布式任务 (zookeeper引入， 分片任务)
 
 
+
+## License
+MIT
+
