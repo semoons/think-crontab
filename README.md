@@ -75,7 +75,7 @@ stdout_logfile=/root/supervisor.log ;stdout文件
 - [ ] 自动创建 cron 文件，注入 provider
 - [ ] 创建任务命令 php think cron:create 
 - [ ] 可追踪的定时任务日志 && 定时任务的心跳 && 异常追踪
-- [ ] 分布式任务 (zookeeper引入， 分片任务)
+- [ ] 并行任务 
 
 
 
